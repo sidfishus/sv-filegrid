@@ -3,7 +3,7 @@
 	"repository": "sidfishus/sv-filegrid",
 	"author": "sidfishus",
 	"description": "A responsive re-usable Svelte file grid component.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run prepack",
